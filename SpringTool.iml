@@ -6,9 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test/pers.dzk.jdk/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/library" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="compiler-1.0" level="project" />
+    <orderEntry type="library" name="compiler-1.0 (2)" level="project" />
   </component>
 </module>
